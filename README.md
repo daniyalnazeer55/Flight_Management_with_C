@@ -10,7 +10,6 @@ A command-line flight booking application written in C designed to manage seat s
 
 ## Project Structure
 - `main.c`: Contains the core console logic, menu loops, and pricing algorithms.
-- `README.md`: Documentation for building and running the utility.
 - `requirements.txt`: Environment and build tool specifications.
 
 ## Compilation & Execution
